@@ -27,4 +27,26 @@ body {
 .cart {
   display: flex;
   flex-direction: column;
+  padding: 10px
+}
+
+.navbar{
+  
+  height: 50px;
+  background-color: teal;
+  
+  padding: 10px;
+
+
+
+}
+.navlogo{
+  float: right;
+  height: 30px;
+  
+  
+}
+
+img{
+  height: 100%;
 }
